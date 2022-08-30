@@ -1,0 +1,7 @@
+{
+  "name": "remix-yarn-pnp-monorepo-broken-repro",
+  "packageManager": "yarn@3.2.3",
+  "workspaces": [
+    "apps/*"
+  ]
+}
